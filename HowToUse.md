@@ -37,7 +37,10 @@ print("Hello World!");
 
 
 네이버 링크[바로가기](https://www.naver.com)
+
 대괄호[ ] 내부에 바로가기를 나타낼 문자열을, 다음의 소괄호() 내부에 실제 주소를 적는다
 
+
 ![네이버 로고](https://logoproject.naver.com/img/img_story_renewal.png)
+
 대괄호[ ] 내부에 이미지가 없을때 대체할 문자열을, 다음의 소괄호() 내부에 실제 이미지 주소를 적는다
